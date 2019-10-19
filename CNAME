@@ -1,1 +1,3 @@
-www.yourfirefriend.com
+CNAME record
+
+www	CNAME	yourfirefriend.com
