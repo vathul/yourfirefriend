@@ -21,7 +21,7 @@
 title: Your Fire Friend
 email: yourfirefriend@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Have questiong that you'd like to to see in this blog? Write to yourfirefriend@gmail.com.
+  Have questions that you'd like to to see answered in this blog? Write to yourfirefriend@gmail.com or ask @yourfirefriend.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yourfirefriend.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yourfirefriend
